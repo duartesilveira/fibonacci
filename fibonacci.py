@@ -1,6 +1,6 @@
 def fibonacci(element):
     """
-    Simple function that returns N numbers of a Fibonnaci sequence
+    Simple function that returns N numbers of a Fibonnaci sequence.
 
     """
 
