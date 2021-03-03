@@ -1,8 +1,10 @@
 def fibonacci(element):
     """
 
+    A brief description
+
     Args:
-        element:
+        element: Integer
 
     Returns:
 
