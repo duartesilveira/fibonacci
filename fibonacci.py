@@ -1,7 +1,7 @@
 def fibonacci(element):
     """
 
-    A brief description
+    A brief description of the function
 
     Args:
         element: Integer
