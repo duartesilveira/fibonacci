@@ -1,12 +1,11 @@
 def fibonacci(element):
     """
 
+    A brief description of the function, And a new comment.
+
     Args:
-<<<<<<< HEAD
-       element:
-=======
-        element:
->>>>>>> rey
+
+        element: Integer
 
     Returns:
 
